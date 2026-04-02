@@ -42,3 +42,22 @@ Data cleaning and transformation were performed using Oracle SQL before visualiz
 * Dashboard Design
 * Business Analysis
 * Data Storytelling
+
+---
+
+## 📸 Dashboard Preview
+
+### 📊 Summary Dashboard
+![Summary](summary.png)
+
+### 📈 Sales Trend Analysis
+![Sales Trend](sales_trend.png)
+
+### 💰 Profit & Revenue Analysis
+![Profit Revenue](profit_revenue.png)
+
+### 🧩 Segment Analysis
+![Segment](segment.png)
+
+### 📋 Profitability Analysis Table
+![Profitability](profit_table.png)
